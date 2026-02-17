@@ -1,0 +1,746 @@
+[
+  {
+    "id": "audit_v37xmymlqcksft",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_gy8et7mlqcksey\",\"productId\":\"prd_048\",\"quantity\":3,\"price\":408.38}",
+    "createdAt": "2026-02-17T08:34:45.113Z"
+  },
+  {
+    "id": "audit_22hauzmlqcksfn",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_gy8et7mlqcksey\",\"productId\":\"prd_045\",\"quantity\":4,\"price\":398.25}",
+    "createdAt": "2026-02-17T08:34:45.107Z"
+  },
+  {
+    "id": "audit_sgbscsmlqcksfh",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_gy8et7mlqcksey\",\"productId\":\"prd_041\",\"quantity\":9,\"price\":384.75}",
+    "createdAt": "2026-02-17T08:34:45.101Z"
+  },
+  {
+    "id": "audit_htc3ldmlqcksf3",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_gy8et7mlqcksey\"}",
+    "createdAt": "2026-02-17T08:34:45.087Z"
+  },
+  {
+    "id": "audit_nx9ctnmlqckpvn",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_0pzbezmlqckpud\",\"productId\":\"prd_048\",\"quantity\":3,\"price\":408.38}",
+    "createdAt": "2026-02-17T08:34:41.795Z"
+  },
+  {
+    "id": "audit_34b625mlqckpvf",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_0pzbezmlqckpud\",\"productId\":\"prd_045\",\"quantity\":4,\"price\":398.25}",
+    "createdAt": "2026-02-17T08:34:41.787Z"
+  },
+  {
+    "id": "audit_n806zvmlqckpv6",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_0pzbezmlqckpud\",\"productId\":\"prd_041\",\"quantity\":9,\"price\":384.75}",
+    "createdAt": "2026-02-17T08:34:41.778Z"
+  },
+  {
+    "id": "audit_v6pwhqmlqckpug",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_0pzbezmlqckpud\"}",
+    "createdAt": "2026-02-17T08:34:41.752Z"
+  },
+  {
+    "id": "audit_ndehutmlqce99p",
+    "action": "products.update",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"productId\":\"prd_048\",\"changeReason\":\"\"}",
+    "createdAt": "2026-02-17T08:29:40.333Z"
+  },
+  {
+    "id": "audit_fp04vymlqccnnt",
+    "action": "products.update",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"productId\":\"prd_004\",\"changeReason\":\"\"}",
+    "createdAt": "2026-02-17T08:28:25.673Z"
+  },
+  {
+    "id": "audit_brewpwmlq9zhcr",
+    "action": "pos.sale.discount.set",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"amount\":0}",
+    "createdAt": "2026-02-17T07:22:11.739Z"
+  },
+  {
+    "id": "audit_3145cxmlq9zbzv",
+    "action": "pos.sale.discount.set",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"amount\":50}",
+    "createdAt": "2026-02-17T07:22:04.795Z"
+  },
+  {
+    "id": "audit_9bbtq5mlq9z7ri",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"productId\":\"prd_006\",\"quantity\":10,\"price\":24.3}",
+    "createdAt": "2026-02-17T07:21:59.310Z"
+  },
+  {
+    "id": "audit_ympekqmlq9yywn",
+    "action": "pos.sale.discount.set",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"amount\":0}",
+    "createdAt": "2026-02-17T07:21:47.831Z"
+  },
+  {
+    "id": "audit_8uedg9mlq9yjrn",
+    "action": "pos.sale.discount.set",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"amount\":5}",
+    "createdAt": "2026-02-17T07:21:28.211Z"
+  },
+  {
+    "id": "audit_wamy6omlq9ya1h",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"productId\":\"prd_006\",\"quantity\":1,\"price\":24.3}",
+    "createdAt": "2026-02-17T07:21:15.605Z"
+  },
+  {
+    "id": "audit_c8otpamlq9y80y",
+    "action": "pos.sale.line.update",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"lineId\":\"line_hffespmlq9bv5c\",\"mode\":\"DECREASE_ONE\"}",
+    "createdAt": "2026-02-17T07:21:12.994Z"
+  },
+  {
+    "id": "audit_zjjk77mlq9bv5f",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\",\"productId\":\"prd_006\",\"quantity\":1,\"price\":24.3}",
+    "createdAt": "2026-02-17T07:03:49.875Z"
+  },
+  {
+    "id": "audit_r24o9hmlq9bv47",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_xbjiw1mlq9bv40\"}",
+    "createdAt": "2026-02-17T07:03:49.831Z"
+  },
+  {
+    "id": "audit_xb2n8qmlq9autf",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_bn3po1mlq9aur8\",\"productId\":\"prd_020\",\"quantity\":1,\"price\":185.62}",
+    "createdAt": "2026-02-17T07:03:02.787Z"
+  },
+  {
+    "id": "audit_456dmgmlq9auro",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_bn3po1mlq9aur8\"}",
+    "createdAt": "2026-02-17T07:03:02.724Z"
+  },
+  {
+    "id": "audit_2hn7s1mlq9aom7",
+    "action": "products.update",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"productId\":\"prd_020\",\"changeReason\":\"\"}",
+    "createdAt": "2026-02-17T07:02:54.751Z"
+  },
+  {
+    "id": "audit_7b5l6bmlq99eq2",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_43n3asmlq99ef5\",\"productId\":\"prd_008\",\"quantity\":1,\"price\":31.05}",
+    "createdAt": "2026-02-17T07:01:55.274Z"
+  },
+  {
+    "id": "audit_w35xudmlq99efd",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_43n3asmlq99ef5\"}",
+    "createdAt": "2026-02-17T07:01:54.889Z"
+  },
+  {
+    "id": "audit_74r6gimlq98xme",
+    "action": "products.update",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"productId\":\"prd_007\",\"changeReason\":\"\"}",
+    "createdAt": "2026-02-17T07:01:33.110Z"
+  },
+  {
+    "id": "audit_t9j2p4mlq8eyr6",
+    "action": "pos.sale.payment.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_mdn57umlq8ejes\",\"paymentId\":\"pay_ndtgbamlq8eyr2\",\"amount\":100}",
+    "createdAt": "2026-02-17T06:38:14.898Z"
+  },
+  {
+    "id": "audit_6wjjqomlq8ek5f",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_mdn57umlq8ejes\",\"productId\":\"prd_006\",\"quantity\":1,\"price\":24.3}",
+    "createdAt": "2026-02-17T06:37:55.971Z"
+  },
+  {
+    "id": "audit_7li3w0mlq8ejnh",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_mdn57umlq8ejes\",\"productId\":\"prd_006\",\"quantity\":1,\"price\":24.3}",
+    "createdAt": "2026-02-17T06:37:55.325Z"
+  },
+  {
+    "id": "audit_fb9eb1mlq8ejex",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_mdn57umlq8ejes\"}",
+    "createdAt": "2026-02-17T06:37:55.017Z"
+  },
+  {
+    "id": "audit_539kh1mlq5xylf",
+    "action": "pricing.import",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"updated\":0,\"skipped\":1,\"total\":1}",
+    "createdAt": "2026-02-17T05:29:02.307Z"
+  },
+  {
+    "id": "audit_joxx76mlq5udn1",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_7danizmlq5udbv\",\"productId\":\"prd_001\",\"quantity\":1205,\"price\":7.43}",
+    "createdAt": "2026-02-17T05:26:15.181Z"
+  },
+  {
+    "id": "audit_4vp112mlq5udc0",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_7danizmlq5udbv\"}",
+    "createdAt": "2026-02-17T05:26:14.784Z"
+  },
+  {
+    "id": "audit_x2p0b0mlpriodm",
+    "action": "pos.payment.reverse",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"paymentId\":\"pay_26crw0mlprhuht\",\"saleId\":\"sale_9ypnzjmlprh41h\",\"amount\":400}",
+    "createdAt": "2026-02-16T22:45:14.602Z"
+  },
+  {
+    "id": "audit_eyoszkmlprin71",
+    "action": "pos.payment.reverse",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"paymentId\":\"pay_kywbvxmlprhxqc\",\"saleId\":\"sale_9ypnzjmlprh41h\",\"amount\":400}",
+    "createdAt": "2026-02-16T22:45:13.069Z"
+  },
+  {
+    "id": "audit_0mdekomlpri0wm",
+    "action": "pos.sale.finalize",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_9ypnzjmlprh41h\"}",
+    "createdAt": "2026-02-16T22:44:44.182Z"
+  },
+  {
+    "id": "audit_kaxc5qmlprhxqp",
+    "action": "pos.sale.payment.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_9ypnzjmlprh41h\",\"paymentId\":\"pay_kywbvxmlprhxqc\",\"amount\":400}",
+    "createdAt": "2026-02-16T22:44:40.081Z"
+  },
+  {
+    "id": "audit_qluqtlmlprhuia",
+    "action": "pos.sale.payment.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_9ypnzjmlprh41h\",\"paymentId\":\"pay_26crw0mlprhuht\",\"amount\":400}",
+    "createdAt": "2026-02-16T22:44:35.890Z"
+  },
+  {
+    "id": "audit_zasprpmlprh81a",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_9ypnzjmlprh41h\",\"productId\":\"prd_001\",\"quantity\":3,\"price\":7.43}",
+    "createdAt": "2026-02-16T22:44:06.766Z"
+  },
+  {
+    "id": "audit_xex25cmlprh4vh",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_9ypnzjmlprh41h\",\"productId\":\"prd_002\",\"quantity\":1,\"price\":10.8}",
+    "createdAt": "2026-02-16T22:44:02.669Z"
+  },
+  {
+    "id": "audit_ist8y8mlprh4uu",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_s1rtx0mlprh41u\",\"productId\":\"prd_002\",\"quantity\":1,\"price\":10.8}",
+    "createdAt": "2026-02-16T22:44:02.646Z"
+  },
+  {
+    "id": "audit_szcaagmlprh424",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_s1rtx0mlprh41u\"}",
+    "createdAt": "2026-02-16T22:44:01.612Z"
+  },
+  {
+    "id": "audit_0c6eugmlprh41o",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_9ypnzjmlprh41h\"}",
+    "createdAt": "2026-02-16T22:44:01.596Z"
+  },
+  {
+    "id": "audit_lc29vfmlplx2a1",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_b3ychzmlplwxd3\",\"productId\":\"prd_038\",\"quantity\":1,\"price\":114.75}",
+    "createdAt": "2026-02-16T20:08:28.105Z"
+  },
+  {
+    "id": "audit_mxuuewmlplwyf1",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_b3ychzmlplwxd3\",\"productId\":\"prd_002\",\"quantity\":1,\"price\":10.8}",
+    "createdAt": "2026-02-16T20:08:23.101Z"
+  },
+  {
+    "id": "audit_vbw714mlplwxdy",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_b3ychzmlplwxd3\"}",
+    "createdAt": "2026-02-16T20:08:21.766Z"
+  },
+  {
+    "id": "audit_q3jfk1mlpaa4ey",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_gtm24cmlpaa4e0\",\"productId\":\"prd_002\",\"quantity\":1,\"price\":10.8}",
+    "createdAt": "2026-02-16T14:42:42.010Z"
+  },
+  {
+    "id": "audit_dafwrymlpaa4e2",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_gtm24cmlpaa4e0\"}",
+    "createdAt": "2026-02-16T14:42:41.978Z"
+  },
+  {
+    "id": "audit_24rxc6mlp979mu",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_uq1cgsmlp979cq\",\"productId\":\"prd_002\",\"quantity\":1,\"price\":10.8}",
+    "createdAt": "2026-02-16T14:12:29.190Z"
+  },
+  {
+    "id": "audit_ptcqcvmlp979cs",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_uq1cgsmlp979cq\"}",
+    "createdAt": "2026-02-16T14:12:28.828Z"
+  },
+  {
+    "id": "audit_avkdccmlp96d4l",
+    "action": "pos.sale.refund",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_hua39wmlp4ubc3\"}",
+    "createdAt": "2026-02-16T14:11:47.061Z"
+  },
+  {
+    "id": "audit_962j2lmlp4udhz",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_hua39wmlp4ubc3\",\"productId\":\"prd_007\",\"quantity\":1,\"price\":27.68}",
+    "createdAt": "2026-02-16T12:10:29.207Z"
+  },
+  {
+    "id": "audit_5t795imlp4ubt0",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_hua39wmlp4ubc3\",\"productId\":\"prd_008\",\"quantity\":1,\"price\":31.05}",
+    "createdAt": "2026-02-16T12:10:27.012Z"
+  },
+  {
+    "id": "audit_kf8tcgmlp4ubce",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_hua39wmlp4ubc3\"}",
+    "createdAt": "2026-02-16T12:10:26.414Z"
+  },
+  {
+    "id": "audit_67oehsmlosielm",
+    "action": "pos.sale.refund",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_l90q70mlosi3tk\"}",
+    "createdAt": "2026-02-16T06:25:15.370Z"
+  },
+  {
+    "id": "audit_qeymi5mlosi3ur",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_l90q70mlosi3tk\",\"productId\":\"prd_01\",\"quantity\":1,\"price\":2.4}",
+    "createdAt": "2026-02-16T06:25:01.443Z"
+  },
+  {
+    "id": "audit_bn2z2hmlosi3tl",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_l90q70mlosi3tk\"}",
+    "createdAt": "2026-02-16T06:25:01.401Z"
+  },
+  {
+    "id": "audit_soa10fmlosgx5f",
+    "action": "pos.sale.finalize",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_32bma7mlosgu0x\"}",
+    "createdAt": "2026-02-16T06:24:06.099Z"
+  },
+  {
+    "id": "audit_m30a9qmlosgv39",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_32bma7mlosgu0x\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:24:03.429Z"
+  },
+  {
+    "id": "audit_6d14xomlosgu32",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_32bma7mlosgu0x\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:24:02.126Z"
+  },
+  {
+    "id": "audit_ph9yqlmlosgu14",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_32bma7mlosgu0x\"}",
+    "createdAt": "2026-02-16T06:24:02.056Z"
+  },
+  {
+    "id": "audit_0rm06amlosgjqt",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_l71v3amlosgfj5\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:23:48.725Z"
+  },
+  {
+    "id": "audit_1kxk6emlosgflf",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_l71v3amlosgfj5\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:23:43.347Z"
+  },
+  {
+    "id": "audit_v2gememlosgfjd",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_l71v3amlosgfj5\"}",
+    "createdAt": "2026-02-16T06:23:43.276Z"
+  },
+  {
+    "id": "audit_8ngykomlosfggw",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":4,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:57.824Z"
+  },
+  {
+    "id": "audit_czm34qmlosfecu",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":4,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:55.086Z"
+  },
+  {
+    "id": "audit_2cml8cmlosfc65",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:52.253Z"
+  },
+  {
+    "id": "audit_9r6yw1mlosfb3l",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:50.865Z"
+  },
+  {
+    "id": "audit_ya48tlmlosf9bg",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":4,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:48.556Z"
+  },
+  {
+    "id": "audit_0u16kjmlosf3rn",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":4,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:41.363Z"
+  },
+  {
+    "id": "audit_kx3d4vmlosf17g",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:38.044Z"
+  },
+  {
+    "id": "audit_soh16smlosezl2",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:35.942Z"
+  },
+  {
+    "id": "audit_sba4cnmlosezf9",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:35.733Z"
+  },
+  {
+    "id": "audit_yjsu7qmloseza2",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:35.546Z"
+  },
+  {
+    "id": "audit_1uf0rlmlosez45",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:35.333Z"
+  },
+  {
+    "id": "audit_f5ot7dmloseyxp",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:35.101Z"
+  },
+  {
+    "id": "audit_279tsqmloseyng",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:34.732Z"
+  },
+  {
+    "id": "audit_myt40cmlosey6n",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:34.127Z"
+  },
+  {
+    "id": "audit_70zc0pmlosexer",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:33.123Z"
+  },
+  {
+    "id": "audit_pmgswqmlosexek",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_7mdpnsmlosex1r\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T06:22:33.116Z"
+  },
+  {
+    "id": "audit_k7qwopmlosex27",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_7mdpnsmlosex1r\"}",
+    "createdAt": "2026-02-16T06:22:32.671Z"
+  },
+  {
+    "id": "audit_6qqf4fmlosex07",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_wy1g0imlosex00\"}",
+    "createdAt": "2026-02-16T06:22:32.600Z"
+  },
+  {
+    "id": "audit_8rifinmlop5wa7",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_d960jwmlop5vzf\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-16T04:51:32.911Z"
+  },
+  {
+    "id": "audit_bz7twemlop5vzh",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_d960jwmlop5vzf\"}",
+    "createdAt": "2026-02-16T04:51:32.525Z"
+  },
+  {
+    "id": "audit_iubfknmlo5lmag",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_cgk99gmlo5liwv\",\"productId\":\"prd_02\",\"quantity\":10,\"price\":120}",
+    "createdAt": "2026-02-15T19:43:54.136Z"
+  },
+  {
+    "id": "audit_q5s4gimlo5ll9g",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_cgk99gmlo5liwv\",\"productId\":\"prd_01\",\"quantity\":10,\"price\":2.4}",
+    "createdAt": "2026-02-15T19:43:52.804Z"
+  },
+  {
+    "id": "audit_fr3gy5mlo5liy7",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_cgk99gmlo5liwv\",\"productId\":\"prd_01\",\"quantity\":1,\"price\":2.4}",
+    "createdAt": "2026-02-15T19:43:49.807Z"
+  },
+  {
+    "id": "audit_l0dl9bmlo5liwx",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_cgk99gmlo5liwv\"}",
+    "createdAt": "2026-02-15T19:43:49.761Z"
+  },
+  {
+    "id": "audit_8hgwqqmlo5ka8g",
+    "action": "pos.sale.refund",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_sfiw8cmlo5jans\"}",
+    "createdAt": "2026-02-15T19:42:51.856Z"
+  },
+  {
+    "id": "audit_rpziqhmlo5jrco",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_sfiw8cmlo5jans\",\"productId\":\"prd_01\",\"quantity\":1,\"price\":2.4}",
+    "createdAt": "2026-02-15T19:42:27.384Z"
+  },
+  {
+    "id": "audit_yok25wmlo5jmbw",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_sfiw8cmlo5jans\",\"productId\":\"prd_01\",\"quantity\":4,\"price\":2.4}",
+    "createdAt": "2026-02-15T19:42:20.876Z"
+  },
+  {
+    "id": "audit_l296a0mlo5jlm0",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_sfiw8cmlo5jans\",\"productId\":\"prd_02\",\"quantity\":4,\"price\":120}",
+    "createdAt": "2026-02-15T19:42:19.944Z"
+  },
+  {
+    "id": "audit_uchrr9mlo5jay5",
+    "action": "pos.sale.line.add",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_sfiw8cmlo5jans\",\"productId\":\"prd_02\",\"quantity\":1,\"price\":120}",
+    "createdAt": "2026-02-15T19:42:06.125Z"
+  },
+  {
+    "id": "audit_ye0bfdmlo5jao1",
+    "action": "pos.sale.draft.create",
+    "username": "admin",
+    "role": "Owner",
+    "meta": "{\"saleId\":\"sale_sfiw8cmlo5jans\"}",
+    "createdAt": "2026-02-15T19:42:05.761Z"
+  }
+]

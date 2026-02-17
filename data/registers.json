@@ -1,0 +1,10 @@
+[
+  {
+    "id": "reg_1",
+    "branchId": "br_main",
+    "name": "Kasa 1",
+    "code": "KASA1",
+    "active": true,
+    "createdAt": "2026-02-14T08:00:00.000Z"
+  }
+]

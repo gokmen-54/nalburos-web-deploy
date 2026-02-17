@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cb_nx4k51mlpriodm",
+    "type": "EXPENSE",
+    "category": "OTHER",
+    "amount": 400,
+    "note": "Yanlis odeme duzeltme: pay_26crw0mlprhuht",
+    "relatedSaleId": "sale_9ypnzjmlprh41h",
+    "createdAt": "2026-02-16T22:45:14.602Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "cb_sbsusumlprin71",
+    "type": "EXPENSE",
+    "category": "OTHER",
+    "amount": 400,
+    "note": "Yanlis odeme duzeltme: pay_kywbvxmlprhxqc",
+    "relatedSaleId": "sale_9ypnzjmlprh41h",
+    "createdAt": "2026-02-16T22:45:13.069Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "cb_shzjkfmlpri0wm",
+    "type": "INCOME",
+    "category": "SALE",
+    "amount": 800,
+    "note": "Satis tahsilati sale_9ypnzjmlprh41h",
+    "relatedSaleId": "sale_9ypnzjmlprh41h",
+    "createdAt": "2026-02-16T22:44:44.182Z",
+    "createdBy": "admin"
+  }
+]

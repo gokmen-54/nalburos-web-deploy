@@ -1,0 +1,30 @@
+[
+  {
+    "id": "acc_4f02jhmlqb2vb3",
+    "customerId": "cus_usta_001",
+    "type": "CREDIT",
+    "amount": 400,
+    "note": "Tahsilat onayi",
+    "createdAt": "2026-02-17T07:52:49.407Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "acc_7klmtemlpou864",
+    "customerId": "cus_usta_001",
+    "type": "DEBIT",
+    "amount": 500,
+    "note": "cuma",
+    "createdAt": "2026-02-16T21:30:14.620Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "acc_l3gwbnmlosgx5f",
+    "customerId": "cus_cash",
+    "type": "DEBIT",
+    "amount": 288,
+    "note": "Vadeli satis sale_32bma7mlosgu0x",
+    "relatedSaleId": "sale_32bma7mlosgu0x",
+    "createdAt": "2026-02-16T06:24:06.099Z",
+    "createdBy": "admin"
+  }
+]

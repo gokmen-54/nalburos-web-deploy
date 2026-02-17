@@ -1,0 +1,62 @@
+[
+    {
+        "id":  "cat_fasteners",
+        "name":  "Baglanti Elemanlari",
+        "hotkey":  "F1",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_handtools",
+        "name":  "El Aletleri",
+        "hotkey":  "F2",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_plumbing",
+        "name":  "Tesisat",
+        "hotkey":  "F3",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_electrical",
+        "name":  "Elektrik",
+        "hotkey":  "F4",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_paint",
+        "name":  "Boya ve Kimyasal",
+        "hotkey":  "F5",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_construction",
+        "name":  "Yapi Malzemeleri",
+        "hotkey":  "F6",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_pipe_metal",
+        "name":  "Demir ve Boru",
+        "hotkey":  "F7",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_garden",
+        "name":  "Bahce",
+        "hotkey":  "F8",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_safety",
+        "name":  "Is Guvenligi",
+        "hotkey":  "F9",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    },
+    {
+        "id":  "cat_abrasive",
+        "name":  "Kesici Asindirici",
+        "hotkey":  "F10",
+        "createdAt":  "2026-02-14T08:00:00.000Z"
+    }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "job_akddztmlpri2v9",
+    "type": "OPEN_CASHDRAWER",
+    "payload": "{}",
+    "status": "DONE",
+    "createdAt": "2026-02-16T22:44:46.725Z",
+    "updatedAt": "2026-02-16T22:44:46.725Z"
+  },
+  {
+    "id": "job_g1v6cfmlpri2au",
+    "type": "PRINT_RECEIPT",
+    "payload": "{\"saleId\":\"sale_9ypnzjmlprh41h\"}",
+    "status": "DONE",
+    "createdAt": "2026-02-16T22:44:45.990Z",
+    "updatedAt": "2026-02-16T22:44:45.990Z"
+  },
+  {
+    "id": "job_f9tn6cmlosgy9b",
+    "type": "OPEN_CASHDRAWER",
+    "payload": "{}",
+    "status": "DONE",
+    "createdAt": "2026-02-16T06:24:07.535Z",
+    "updatedAt": "2026-02-16T06:24:07.535Z"
+  },
+  {
+    "id": "job_lsda7fmlosgxx5",
+    "type": "PRINT_RECEIPT",
+    "payload": "{\"saleId\":\"sale_32bma7mlosgu0x\"}",
+    "status": "DONE",
+    "createdAt": "2026-02-16T06:24:07.097Z",
+    "updatedAt": "2026-02-16T06:24:07.097Z"
+  }
+]

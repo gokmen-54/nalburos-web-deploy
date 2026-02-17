@@ -1,0 +1,520 @@
+[
+  {
+    "id": "mov_tyw6dvmlpri0wl",
+    "productId": "prd_001",
+    "type": "OUT",
+    "quantity": 3,
+    "note": "Sale sale_9ypnzjmlprh41h",
+    "createdAt": "2026-02-16T22:44:44.182Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_rf9y3hmlpri0wl",
+    "productId": "prd_002",
+    "type": "OUT",
+    "quantity": 1,
+    "note": "Sale sale_9ypnzjmlprh41h",
+    "createdAt": "2026-02-16T22:44:44.181Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_001",
+    "productId": "prd_001",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 5.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_002",
+    "productId": "prd_002",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 8,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_003",
+    "productId": "prd_003",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 10.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_004",
+    "productId": "prd_004",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 13,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_005",
+    "productId": "prd_005",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 15.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_006",
+    "productId": "prd_006",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 18,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_007",
+    "productId": "prd_007",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 20.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_008",
+    "productId": "prd_008",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 23,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_009",
+    "productId": "prd_009",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 25.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_010",
+    "productId": "prd_010",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 28,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_011",
+    "productId": "prd_011",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 147.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_012",
+    "productId": "prd_012",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 150,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_013",
+    "productId": "prd_013",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 120,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_014",
+    "productId": "prd_014",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 122.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_015",
+    "productId": "prd_015",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 125,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_016",
+    "productId": "prd_016",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 127.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_017",
+    "productId": "prd_017",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 130,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_018",
+    "productId": "prd_018",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 132.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_019",
+    "productId": "prd_019",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 135,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_020",
+    "productId": "prd_020",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 137.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_021",
+    "productId": "prd_021",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 65,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_022",
+    "productId": "prd_022",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 67.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_023",
+    "productId": "prd_023",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 70,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_024",
+    "productId": "prd_024",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 72.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_025",
+    "productId": "prd_025",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 75,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_026",
+    "productId": "prd_026",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 45,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_027",
+    "productId": "prd_027",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 47.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_029",
+    "productId": "prd_029",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 52.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_030",
+    "productId": "prd_030",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 55,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_038",
+    "productId": "prd_038",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 85,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_041",
+    "productId": "prd_041",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 285,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_043",
+    "productId": "prd_043",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 290,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_045",
+    "productId": "prd_045",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 295,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_048",
+    "productId": "prd_048",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 302.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_051",
+    "productId": "prd_051",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 220,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_052",
+    "productId": "prd_052",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 190,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_053",
+    "productId": "prd_053",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 192.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_056",
+    "productId": "prd_056",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 200,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_059",
+    "productId": "prd_059",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 207.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_061",
+    "productId": "prd_061",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 107.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_062",
+    "productId": "prd_062",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 110,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_066",
+    "productId": "prd_066",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 87.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_068",
+    "productId": "prd_068",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 92.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_069",
+    "productId": "prd_069",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 95,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_078",
+    "productId": "prd_078",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 95,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_079",
+    "productId": "prd_079",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 97.5,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "mov_080",
+    "productId": "prd_080",
+    "type": "IN",
+    "quantity": 100,
+    "unitCost": 100,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-14T09:30:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "stm_prd_101",
+    "productId": "prd_101",
+    "type": "IN",
+    "quantity": 280,
+    "unitCost": 71,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-16T22:00:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "stm_prd_102",
+    "productId": "prd_102",
+    "type": "IN",
+    "quantity": 140,
+    "unitCost": 128,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-16T22:00:00.000Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "stm_prd_103",
+    "productId": "prd_103",
+    "type": "IN",
+    "quantity": 500,
+    "unitCost": 10.8,
+    "note": "Acilis stogu",
+    "createdAt": "2026-02-16T22:00:00.000Z",
+    "createdBy": "admin"
+  }
+]

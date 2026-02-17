@@ -1,0 +1,741 @@
+[
+  {
+    "id": "sale_gy8et7mlqcksey",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "PERAKENDE SATIS",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_vok9dgmlqcksfc",
+        "productId": "prd_041",
+        "productName": "Ic Cephe Boya 20kg",
+        "sku": "-C-CEPHE-BOYA-20KG",
+        "quantity": 9,
+        "unitPrice": 384.75,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 3462.75
+      },
+      {
+        "id": "line_7qgo9cmlqcksfk",
+        "productId": "prd_045",
+        "productName": "Astar Boya 10kg",
+        "sku": "ASTAR-BOYA-10KG",
+        "quantity": 4,
+        "unitPrice": 398.25,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 1593
+      },
+      {
+        "id": "line_wipsn6mlqcksfr",
+        "productId": "prd_048",
+        "productName": "Boya Rulosu 25cm",
+        "sku": "BOYA-RULOSU-25CM",
+        "quantity": 3,
+        "unitPrice": 408.38,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 1225.1399999999999
+      }
+    ],
+    "subTotal": 6280.889999999999,
+    "discountTotal": 0,
+    "manualDiscountTotal": 0,
+    "taxTotal": 1256.178,
+    "netTotal": 7537.067999999999,
+    "paidTotal": 0,
+    "dueTotal": 7537.067999999999,
+    "changeTotal": 0,
+    "createdAt": "2026-02-17T08:34:45.082Z",
+    "updatedAt": "2026-02-17T08:34:45.111Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_0pzbezmlqckpud",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "PERAKENDE SATIS",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_kkew54mlqckpuq",
+        "productId": "prd_041",
+        "productName": "Ic Cephe Boya 20kg",
+        "sku": "-C-CEPHE-BOYA-20KG",
+        "quantity": 9,
+        "unitPrice": 384.75,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 3462.75
+      },
+      {
+        "id": "line_rqcwinmlqckpvc",
+        "productId": "prd_045",
+        "productName": "Astar Boya 10kg",
+        "sku": "ASTAR-BOYA-10KG",
+        "quantity": 4,
+        "unitPrice": 398.25,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 1593
+      },
+      {
+        "id": "line_rwwmptmlqckpvk",
+        "productId": "prd_048",
+        "productName": "Boya Rulosu 25cm",
+        "sku": "BOYA-RULOSU-25CM",
+        "quantity": 3,
+        "unitPrice": 408.38,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 1225.1399999999999
+      }
+    ],
+    "subTotal": 6280.889999999999,
+    "discountTotal": 0,
+    "manualDiscountTotal": 0,
+    "taxTotal": 1256.178,
+    "netTotal": 7537.067999999999,
+    "paidTotal": 0,
+    "dueTotal": 7537.067999999999,
+    "changeTotal": 0,
+    "createdAt": "2026-02-17T08:34:41.749Z",
+    "updatedAt": "2026-02-17T08:34:41.792Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_xbjiw1mlq9bv40",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_2k4fvimlq9ya1d",
+        "productId": "prd_006",
+        "productName": "Civata M10x60",
+        "sku": "CİVATA-M10X60",
+        "quantity": 11,
+        "unitPrice": 24.3,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 267.3
+      }
+    ],
+    "subTotal": 267.3,
+    "discountTotal": 0,
+    "manualDiscountTotal": 0,
+    "taxTotal": 53.46000000000001,
+    "netTotal": 320.76,
+    "paidTotal": 0,
+    "dueTotal": 320.76,
+    "changeTotal": 0,
+    "createdAt": "2026-02-17T07:03:49.824Z",
+    "updatedAt": "2026-02-17T07:22:11.739Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_bn3po1mlq9aur8",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_fav9xcmlq9autd",
+        "productId": "prd_020",
+        "productName": "Maket Bicagi",
+        "sku": "MAKET-BİCAGİ",
+        "quantity": 1,
+        "unitPrice": 185.62,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 185.62
+      }
+    ],
+    "subTotal": 185.62,
+    "discountTotal": 0,
+    "manualDiscountTotal": 0,
+    "taxTotal": 37.124,
+    "netTotal": 222.744,
+    "paidTotal": 0,
+    "dueTotal": 222.744,
+    "changeTotal": 0,
+    "createdAt": "2026-02-17T07:03:02.708Z",
+    "updatedAt": "2026-02-17T07:03:02.785Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_43n3asmlq99ef5",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_2axoy6mlq99epy",
+        "productId": "prd_008",
+        "productName": "Somun M10",
+        "sku": "SOMUN-M10",
+        "quantity": 1,
+        "unitPrice": 31.05,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 31.05
+      }
+    ],
+    "subTotal": 31.05,
+    "discountTotal": 0,
+    "manualDiscountTotal": 0,
+    "taxTotal": 6.210000000000001,
+    "netTotal": 37.260000000000005,
+    "paidTotal": 0,
+    "dueTotal": 37.260000000000005,
+    "changeTotal": 0,
+    "createdAt": "2026-02-17T07:01:54.881Z",
+    "updatedAt": "2026-02-17T07:01:55.270Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_mdn57umlq8ejes",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_7njob5mlq8ejne",
+        "productId": "prd_006",
+        "productName": "Civata M10x60",
+        "sku": "CİVATA-M10X60",
+        "quantity": 2,
+        "unitPrice": 24.3,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 48.6
+      }
+    ],
+    "subTotal": 48.6,
+    "discountTotal": 0,
+    "taxTotal": 9.72,
+    "netTotal": 58.32,
+    "paidTotal": 100,
+    "dueTotal": 0,
+    "createdAt": "2026-02-17T06:37:55.012Z",
+    "updatedAt": "2026-02-17T06:38:14.896Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_7danizmlq5udbv",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_wx0ingmlq5udmy",
+        "productId": "prd_001",
+        "productName": "Vida 5x40",
+        "sku": "VİDA-5X40",
+        "quantity": 1205,
+        "unitPrice": 7.43,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 8953.15
+      }
+    ],
+    "subTotal": 8953.15,
+    "discountTotal": 0,
+    "taxTotal": 1790.63,
+    "netTotal": 10743.779999999999,
+    "paidTotal": 0,
+    "dueTotal": 10743.779999999999,
+    "createdAt": "2026-02-17T05:26:14.780Z",
+    "updatedAt": "2026-02-17T05:26:15.178Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_s1rtx0mlprh41u",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_y73ayqmlprh4uq",
+        "productId": "prd_002",
+        "productName": "Vida 6x60",
+        "sku": "VİDA-6X60",
+        "quantity": 1,
+        "unitPrice": 10.8,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 10.8
+      }
+    ],
+    "subTotal": 10.8,
+    "discountTotal": 0,
+    "taxTotal": 2.16,
+    "netTotal": 12.96,
+    "paidTotal": 0,
+    "dueTotal": 12.96,
+    "createdAt": "2026-02-16T22:44:01.602Z",
+    "updatedAt": "2026-02-16T22:44:02.642Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_9ypnzjmlprh41h",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "COMPLETED",
+    "lines": [
+      {
+        "id": "line_dz23y9mlprh4vb",
+        "productId": "prd_002",
+        "productName": "Vida 6x60",
+        "sku": "VİDA-6X60",
+        "quantity": 1,
+        "unitPrice": 10.8,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 10.8
+      },
+      {
+        "id": "line_46oaylmlprh815",
+        "productId": "prd_001",
+        "productName": "Vida 5x40",
+        "sku": "VİDA-5X40",
+        "quantity": 3,
+        "unitPrice": 7.43,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 22.29
+      }
+    ],
+    "subTotal": 33.09,
+    "discountTotal": 0,
+    "taxTotal": 6.618,
+    "netTotal": 39.708000000000006,
+    "paidTotal": 0,
+    "dueTotal": 39.708000000000006,
+    "createdAt": "2026-02-16T22:44:01.589Z",
+    "updatedAt": "2026-02-16T22:45:14.602Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash",
+    "idempotencyKey": "sale_9ypnzjmlprh41h_1771281883454"
+  },
+  {
+    "id": "sale_b3ychzmlplwxd3",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_srky6lmlplwyep",
+        "productId": "prd_002",
+        "productName": "Vida 6x60",
+        "sku": "VİDA-6X60",
+        "quantity": 1,
+        "unitPrice": 10.8,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 10.8
+      },
+      {
+        "id": "line_wtkr8zmlplx29x",
+        "productId": "prd_038",
+        "productName": "Elektrik Band?",
+        "sku": "ELEKTRİK-BAND-",
+        "quantity": 1,
+        "unitPrice": 114.75,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 114.75
+      }
+    ],
+    "subTotal": 125.55,
+    "discountTotal": 0,
+    "taxTotal": 25.110000000000003,
+    "netTotal": 150.66,
+    "paidTotal": 0,
+    "dueTotal": 150.66,
+    "createdAt": "2026-02-16T20:08:21.735Z",
+    "updatedAt": "2026-02-16T20:08:28.101Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_gtm24cmlpaa4e0",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_vvk2krmlpaa4ew",
+        "productId": "prd_002",
+        "productName": "Vida 6x60",
+        "sku": "VİDA-6X60",
+        "quantity": 1,
+        "unitPrice": 10.8,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 10.8
+      }
+    ],
+    "subTotal": 10.8,
+    "discountTotal": 0,
+    "taxTotal": 2.16,
+    "netTotal": 12.96,
+    "paidTotal": 0,
+    "dueTotal": 12.96,
+    "createdAt": "2026-02-16T14:42:41.976Z",
+    "updatedAt": "2026-02-16T14:42:42.008Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_uq1cgsmlp979cq",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_08lbmnmlp979ms",
+        "productId": "prd_002",
+        "productName": "Vida 6x60",
+        "sku": "VİDA-6X60",
+        "quantity": 1,
+        "unitPrice": 10.8,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 10.8
+      }
+    ],
+    "subTotal": 10.8,
+    "discountTotal": 0,
+    "taxTotal": 2.16,
+    "netTotal": 12.96,
+    "paidTotal": 0,
+    "dueTotal": 12.96,
+    "createdAt": "2026-02-16T14:12:28.826Z",
+    "updatedAt": "2026-02-16T14:12:29.188Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_hua39wmlp4ubc3",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "REFUNDED",
+    "lines": [
+      {
+        "id": "line_heqmdkmlp4ubsw",
+        "productId": "prd_008",
+        "productName": "Somun M10",
+        "sku": "SOMUN-M10",
+        "quantity": 1,
+        "unitPrice": 31.05,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 31.05
+      },
+      {
+        "id": "line_l7yl98mlp4udhy",
+        "productId": "prd_007",
+        "productName": "Somun M8",
+        "sku": "SOMUN-M8",
+        "quantity": 1,
+        "unitPrice": 27.68,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 27.68
+      }
+    ],
+    "subTotal": 58.730000000000004,
+    "discountTotal": 0,
+    "taxTotal": 11.746000000000002,
+    "netTotal": 70.476,
+    "paidTotal": 0,
+    "dueTotal": 70.476,
+    "createdAt": "2026-02-16T12:10:26.403Z",
+    "updatedAt": "2026-02-16T14:11:47.061Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_l90q70mlosi3tk",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Mehmet Usta",
+    "status": "REFUNDED",
+    "lines": [
+      {
+        "id": "line_mnz9f3mlosi3uq",
+        "productId": "prd_01",
+        "productName": "Vida 5x40",
+        "sku": "VIDA-5X40",
+        "quantity": 1,
+        "unitPrice": 2.4,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 2.4
+      }
+    ],
+    "subTotal": 2.4,
+    "discountTotal": 0,
+    "taxTotal": 0.48,
+    "netTotal": 2.88,
+    "paidTotal": 0,
+    "dueTotal": 2.88,
+    "createdAt": "2026-02-16T06:25:01.400Z",
+    "updatedAt": "2026-02-16T06:25:15.370Z",
+    "createdBy": "admin",
+    "customerId": "cus_usta_001"
+  },
+  {
+    "id": "sale_32bma7mlosgu0x",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "COMPLETED",
+    "lines": [
+      {
+        "id": "line_czyj85mlosgu31",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 2,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 240
+      }
+    ],
+    "subTotal": 240,
+    "discountTotal": 0,
+    "taxTotal": 48,
+    "netTotal": 288,
+    "paidTotal": 0,
+    "dueTotal": 288,
+    "createdAt": "2026-02-16T06:24:02.049Z",
+    "updatedAt": "2026-02-16T06:24:06.099Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash",
+    "idempotencyKey": "sale_32bma7mlosgu0x_1771223045413"
+  },
+  {
+    "id": "sale_l71v3amlosgfj5",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_41oa05mlosgflf",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 2,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 240
+      }
+    ],
+    "subTotal": 240,
+    "discountTotal": 0,
+    "taxTotal": 48,
+    "netTotal": 288,
+    "paidTotal": 0,
+    "dueTotal": 288,
+    "createdAt": "2026-02-16T06:23:43.265Z",
+    "updatedAt": "2026-02-16T06:23:48.723Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_7mdpnsmlosex1r",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_ojpnzlmlosexej",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 1,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 120
+      }
+    ],
+    "subTotal": 120,
+    "discountTotal": 0,
+    "taxTotal": 24,
+    "netTotal": 144,
+    "paidTotal": 0,
+    "dueTotal": 144,
+    "createdAt": "2026-02-16T06:22:32.655Z",
+    "updatedAt": "2026-02-16T06:22:33.115Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_wy1g0imlosex00",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_mqz5grmlosexep",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 27,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 3240
+      }
+    ],
+    "subTotal": 3240,
+    "discountTotal": 0,
+    "taxTotal": 648,
+    "netTotal": 3888,
+    "paidTotal": 0,
+    "dueTotal": 3888,
+    "createdAt": "2026-02-16T06:22:32.592Z",
+    "updatedAt": "2026-02-16T06:22:57.822Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_d960jwmlop5vzf",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "Perakende Satis",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_xa6zqemlop5wa5",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 1,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 120
+      }
+    ],
+    "subTotal": 120,
+    "discountTotal": 0,
+    "taxTotal": 24,
+    "netTotal": 144,
+    "paidTotal": 0,
+    "dueTotal": 144,
+    "createdAt": "2026-02-16T04:51:32.523Z",
+    "updatedAt": "2026-02-16T04:51:32.909Z",
+    "createdBy": "admin",
+    "customerId": "cus_cash"
+  },
+  {
+    "id": "sale_cgk99gmlo5liwv",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "PERAKENDE SATIS",
+    "status": "DRAFT",
+    "lines": [
+      {
+        "id": "line_x9n2ngmlo5liy6",
+        "productId": "prd_01",
+        "productName": "Vida 5x40",
+        "sku": "VIDA-5X40",
+        "quantity": 11,
+        "unitPrice": 2.4,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 26.4
+      },
+      {
+        "id": "line_gmdft0mlo5lmae",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 10,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 1200
+      }
+    ],
+    "subTotal": 1226.4,
+    "discountTotal": 0,
+    "taxTotal": 245.28,
+    "netTotal": 1471.68,
+    "paidTotal": 0,
+    "dueTotal": 1471.68,
+    "createdAt": "2026-02-15T19:43:49.759Z",
+    "updatedAt": "2026-02-15T19:43:54.135Z",
+    "createdBy": "admin"
+  },
+  {
+    "id": "sale_sfiw8cmlo5jans",
+    "branchId": "br_main",
+    "registerId": "reg_1",
+    "customerName": "PERAKENDE SATIS",
+    "status": "REFUNDED",
+    "lines": [
+      {
+        "id": "line_thg4q3mlo5jay3",
+        "productId": "prd_02",
+        "productName": "Silikon Beyaz",
+        "sku": "SILIKON-BEYAZ",
+        "quantity": 5,
+        "unitPrice": 120,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 600
+      },
+      {
+        "id": "line_y7jsqamlo5jmbv",
+        "productId": "prd_01",
+        "productName": "Vida 5x40",
+        "sku": "VIDA-5X40",
+        "quantity": 5,
+        "unitPrice": 2.4,
+        "discountRate": 0,
+        "taxRate": 20,
+        "lineTotal": 12
+      }
+    ],
+    "subTotal": 612,
+    "discountTotal": 0,
+    "taxTotal": 122.4,
+    "netTotal": 734.4,
+    "paidTotal": 0,
+    "dueTotal": 734.4,
+    "createdAt": "2026-02-15T19:42:05.752Z",
+    "updatedAt": "2026-02-15T19:42:51.856Z",
+    "createdBy": "admin"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "usr_admin",
+    "username": "admin",
+    "email": "admin@nalburos.local",
+    "passwordSalt": "6108e1d15abea5cb79d759a43d90a590",
+    "passwordHash": "d0320c2327de351b0991c617387445b1f3e379839854a812e942bc491ee659896c6dab90da62a36e1e7e234acc422b9417955f3c51630ef84b6a64cb7aaa225f",
+    "passwordUpdatedAt": "2026-02-16T00:00:00.000Z",
+    "name": "Nalbur Admin",
+    "role": "Owner"
+  },
+  {
+    "id": "usr_yilmaz",
+    "username": "yilmaz",
+    "email": "mgokmen842@gmail.com",
+    "passwordSalt": "491c4edf4d2d74ec932cf94a5be25edd",
+    "passwordHash": "b3da7e6bd767c0ead3e932374f8fdfee1eeaa6a55baa85fd9f59c23af28c1e2cc364f7805753995587c580683c5a28bb7821187ea4b7e0fb8e39c067468379dc",
+    "passwordUpdatedAt": "2026-02-16T00:00:00.000Z",
+    "name": "Yilmaz",
+    "role": "Owner"
+  }
+]

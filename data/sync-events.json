@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sync_jvmpz9mlpri0wm",
+    "eventType": "SALE_FINALIZE",
+    "saleId": "sale_9ypnzjmlprh41h",
+    "payload": "{\"id\":\"sale_9ypnzjmlprh41h\",\"branchId\":\"br_main\",\"registerId\":\"reg_1\",\"customerName\":\"Perakende Satis\",\"status\":\"COMPLETED\",\"lines\":[{\"id\":\"line_dz23y9mlprh4vb\",\"productId\":\"prd_002\",\"productName\":\"Vida 6x60\",\"sku\":\"VİDA-6X60\",\"quantity\":1,\"unitPrice\":10.8,\"discountRate\":0,\"taxRate\":20,\"lineTotal\":10.8},{\"id\":\"line_46oaylmlprh815\",\"productId\":\"prd_001\",\"productName\":\"Vida 5x40\",\"sku\":\"VİDA-5X40\",\"quantity\":3,\"unitPrice\":7.43,\"discountRate\":0,\"taxRate\":20,\"lineTotal\":22.29}],\"subTotal\":33.09,\"discountTotal\":0,\"taxTotal\":6.618,\"netTotal\":39.708000000000006,\"paidTotal\":800,\"dueTotal\":0,\"createdAt\":\"2026-02-16T22:44:01.589Z\",\"updatedAt\":\"2026-02-16T22:44:44.182Z\",\"createdBy\":\"admin\",\"customerId\":\"cus_cash\",\"idempotencyKey\":\"sale_9ypnzjmlprh41h_1771281883454\"}",
+    "status": "SYNCED",
+    "attempts": 1,
+    "createdAt": "2026-02-16T22:44:44.182Z",
+    "updatedAt": "2026-02-16T22:45:27.074Z"
+  },
+  {
+    "id": "sync_pb83gxmlosgx5f",
+    "eventType": "SALE_FINALIZE",
+    "saleId": "sale_32bma7mlosgu0x",
+    "payload": "{\"id\":\"sale_32bma7mlosgu0x\",\"branchId\":\"br_main\",\"registerId\":\"reg_1\",\"customerName\":\"Perakende Satis\",\"status\":\"COMPLETED\",\"lines\":[{\"id\":\"line_czyj85mlosgu31\",\"productId\":\"prd_02\",\"productName\":\"Silikon Beyaz\",\"sku\":\"SILIKON-BEYAZ\",\"quantity\":2,\"unitPrice\":120,\"discountRate\":0,\"taxRate\":20,\"lineTotal\":240}],\"subTotal\":240,\"discountTotal\":0,\"taxTotal\":48,\"netTotal\":288,\"paidTotal\":0,\"dueTotal\":288,\"createdAt\":\"2026-02-16T06:24:02.049Z\",\"updatedAt\":\"2026-02-16T06:24:06.099Z\",\"createdBy\":\"admin\",\"customerId\":\"cus_cash\",\"idempotencyKey\":\"sale_32bma7mlosgu0x_1771223045413\"}",
+    "status": "SYNCED",
+    "attempts": 1,
+    "createdAt": "2026-02-16T06:24:06.099Z",
+    "updatedAt": "2026-02-16T06:25:11.208Z"
+  }
+]

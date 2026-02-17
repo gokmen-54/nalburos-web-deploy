@@ -1,0 +1,180 @@
+[
+  {
+    "id": "est_xv31t1mlqckj3g",
+    "templateId": "rcp_paint",
+    "templateName": "Ic Cephe Boya Paketi",
+    "title": "Ic Cephe Boya Paketi Teklif",
+    "areaValue": 100,
+    "thicknessCm": 1,
+    "wastePercent": 8,
+    "lines": [
+      {
+        "productId": "prd_041",
+        "productName": "Ic Cephe Boya 20kg",
+        "unit": "piece",
+        "requiredQuantity": 8.64,
+        "requiredUnit": "piece",
+        "quantity": 9,
+        "salePrice": 384.75,
+        "costPrice": 285,
+        "totalSale": 3462.75,
+        "totalCost": 2565
+      },
+      {
+        "productId": "prd_045",
+        "productName": "Astar Boya 10kg",
+        "unit": "piece",
+        "requiredQuantity": 3.24,
+        "requiredUnit": "piece",
+        "quantity": 4,
+        "salePrice": 398.25,
+        "costPrice": 295,
+        "totalSale": 1593,
+        "totalCost": 1180
+      },
+      {
+        "productId": "prd_048",
+        "productName": "Boya Rulosu 25cm",
+        "unit": "piece",
+        "requiredQuantity": 2.16,
+        "requiredUnit": "piece",
+        "quantity": 3,
+        "salePrice": 408.38,
+        "costPrice": 302.5,
+        "totalSale": 1225.14,
+        "totalCost": 907.5
+      }
+    ],
+    "totalSale": 6280.89,
+    "totalCost": 4652.5,
+    "grossProfit": 1628.39,
+    "grossMarginPercent": 25.93,
+    "status": "OPEN",
+    "createdAt": "2026-02-17T08:34:33.004Z",
+    "createdBy": "admin",
+    "versions": [
+      {
+        "version": 1,
+        "changedAt": "2026-02-17T08:34:33.004Z",
+        "changedBy": "admin",
+        "note": "Ilk kayit"
+      }
+    ]
+  },
+  {
+    "id": "est_y5a6vtmlprduvt",
+    "templateId": "rcp_concrete_base",
+    "templateName": "Cimento + Demir Temel Paketi",
+    "title": "Cimento + Demir Temel Paketi Teklif",
+    "areaValue": 100,
+    "thicknessCm": 1,
+    "wastePercent": 15,
+    "lines": [
+      {
+        "productId": "prd_051",
+        "productName": "Cimento 50kg",
+        "unit": "piece",
+        "quantity": 8.05,
+        "salePrice": 297,
+        "costPrice": 220,
+        "totalSale": 2390.85,
+        "totalCost": 1771
+      },
+      {
+        "productId": "prd_061",
+        "productName": "Demir Profil 20x20",
+        "unit": "meter",
+        "quantity": 207,
+        "salePrice": 145.12,
+        "costPrice": 107.5,
+        "totalSale": 30039.84,
+        "totalCost": 22252.5
+      },
+      {
+        "productId": "prd_062",
+        "productName": "Demir Profil 30x30",
+        "unit": "meter",
+        "quantity": 103.5,
+        "salePrice": 148.5,
+        "costPrice": 110,
+        "totalSale": 15369.75,
+        "totalCost": 11385
+      }
+    ],
+    "totalSale": 47800.44,
+    "totalCost": 35408.5,
+    "grossProfit": 12391.94,
+    "grossMarginPercent": 25.92,
+    "createdAt": "2026-02-16T22:41:29.753Z",
+    "createdBy": "admin",
+    "versions": [
+      {
+        "version": 11,
+        "changedAt": "2026-02-16T23:12:22.648Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 10,
+        "changedAt": "2026-02-16T23:12:22.396Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 9,
+        "changedAt": "2026-02-16T23:12:17.687Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 8,
+        "changedAt": "2026-02-16T23:12:17.391Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 7,
+        "changedAt": "2026-02-16T23:12:11.101Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 6,
+        "changedAt": "2026-02-16T23:12:10.325Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 5,
+        "changedAt": "2026-02-16T23:11:57.656Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 4,
+        "changedAt": "2026-02-16T23:11:55.396Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 3,
+        "changedAt": "2026-02-16T23:11:53.320Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 2,
+        "changedAt": "2026-02-16T23:11:51.828Z",
+        "changedBy": "admin",
+        "note": "Durum guncellendi: LOST"
+      },
+      {
+        "version": 1,
+        "changedAt": "2026-02-16T22:41:29.753Z",
+        "changedBy": "admin",
+        "note": "Ilk kayit"
+      }
+    ],
+    "status": "LOST"
+  }
+]

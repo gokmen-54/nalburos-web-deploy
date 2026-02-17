@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cus_cash",
+    "code": "PRSND",
+    "name": "Perakende Satis",
+    "phone": "",
+    "address": "",
+    "creditLimit": 0,
+    "balance": 288,
+    "createdAt": "2026-02-14T08:00:00.000Z"
+  },
+  {
+    "id": "cus_usta_001",
+    "code": "USTA001",
+    "name": "Mehmet Usta",
+    "phone": "05000000000",
+    "address": "Merkez",
+    "creditLimit": 10000,
+    "balance": 100,
+    "createdAt": "2026-02-14T08:00:00.000Z"
+  }
+]

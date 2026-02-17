@@ -1,0 +1,322 @@
+[
+  {
+    "id": "rcp_paint",
+    "name": "Ic Cephe Boya Paketi",
+    "description": "m2 bazli boya sarfiyat hesabi.",
+    "inputMode": "m2",
+    "primaryInputLabel": "Boya Alani",
+    "showThickness": false,
+    "defaultWastePercent": 8,
+    "items": [
+      {
+        "productId": "prd_041",
+        "productName": "Ic Cephe Boya 20kg",
+        "unit": "piece",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.08
+      },
+      {
+        "productId": "prd_045",
+        "productName": "Astar Boya 10kg",
+        "unit": "piece",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.03
+      },
+      {
+        "productId": "prd_048",
+        "productName": "Boya Rulosu 25cm",
+        "unit": "piece",
+        "quantityFormula": "fixed",
+        "coefficient": 2
+      }
+    ]
+  },
+  {
+    "id": "rcp_plaster",
+    "name": "Siva Paketi",
+    "description": "Duvar sivasi icin m2 bazli hesap.",
+    "inputMode": "m2",
+    "primaryInputLabel": "Siva Alani",
+    "showThickness": true,
+    "defaultWastePercent": 10,
+    "items": [
+      {
+        "productId": "prd_052",
+        "productName": "Hazir Siva 25kg",
+        "unit": "piece",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.22
+      },
+      {
+        "productId": "prd_053",
+        "productName": "Saten Alci 25kg",
+        "unit": "piece",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.08
+      },
+      {
+        "productId": "prd_059",
+        "productName": "Kirec 25kg",
+        "unit": "piece",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.04
+      }
+    ]
+  },
+  {
+    "id": "rcp_screed",
+    "name": "Sap Paketi",
+    "description": "Zemin sap uygulamasi (m2 + kalinlik).",
+    "inputMode": "m2",
+    "primaryInputLabel": "Sap Alani",
+    "showThickness": true,
+    "defaultWastePercent": 12,
+    "items": [
+      {
+        "productId": "prd_051",
+        "productName": "Cimento 50kg",
+        "unit": "piece",
+        "quantityFormula": "per_m3",
+        "coefficient": 6.5
+      },
+      {
+        "productId": "prd_056",
+        "productName": "Su Yalitim Harci 20kg",
+        "unit": "piece",
+        "quantityFormula": "per_m3",
+        "coefficient": 1.2
+      }
+    ]
+  },
+  {
+    "id": "rcp_ppr_clean_water",
+    "name": "PPR Temiz Su Hatti",
+    "description": "PPR boru tesisati icin hat metraji + baglanti kalemi hesabi.",
+    "inputMode": "meter",
+    "primaryInputLabel": "Toplam Hat Metraji",
+    "showThickness": false,
+    "defaultWastePercent": 5,
+    "customInputs": [
+      {
+        "key": "elbowCount",
+        "label": "Dirsek Adedi",
+        "unit": "Adet",
+        "defaultValue": 10,
+        "required": true
+      },
+      {
+        "key": "teeCount",
+        "label": "T Baglanti Adedi",
+        "unit": "Adet",
+        "defaultValue": 4,
+        "required": true
+      },
+      {
+        "key": "valveCount",
+        "label": "Vana Baglanti Adedi",
+        "unit": "Adet",
+        "defaultValue": 2,
+        "required": true
+      }
+    ],
+    "items": [
+      {
+        "productId": "prd_066",
+        "productName": "PVC Temiz Su Boru 20",
+        "unit": "meter",
+        "quantityFormula": "per_meter",
+        "coefficient": 1
+      },
+      {
+        "productId": "prd_026",
+        "productName": "PPR Dirsek 20mm",
+        "unit": "piece",
+        "quantityFormula": "per_input",
+        "inputKey": "elbowCount",
+        "coefficient": 1
+      },
+      {
+        "productId": "prd_027",
+        "productName": "PPR T 20mm",
+        "unit": "piece",
+        "quantityFormula": "per_input",
+        "inputKey": "teeCount",
+        "coefficient": 1
+      },
+      {
+        "productId": "prd_029",
+        "productName": "Teflon Bant",
+        "unit": "piece",
+        "quantityFormula": "per_input",
+        "inputKey": "valveCount",
+        "coefficient": 1
+      }
+    ]
+  },
+  {
+    "id": "rcp_pimas_waste_line",
+    "name": "Pimas Pis Su Hatti",
+    "description": "Pis su hattinda 50mm/100mm boru, sifon ve sizdirmazlik malzemesi hesabi.",
+    "inputMode": "meter",
+    "primaryInputLabel": "Toplam Pis Su Hat Metraji",
+    "showThickness": false,
+    "defaultWastePercent": 6,
+    "customInputs": [
+      {
+        "key": "fixtureCount",
+        "label": "Baglanan Cihaz Adedi",
+        "unit": "Adet",
+        "defaultValue": 3,
+        "required": true
+      }
+    ],
+    "items": [
+      {
+        "productId": "prd_068",
+        "productName": "Pis Su Boru 50mm",
+        "unit": "meter",
+        "quantityFormula": "per_meter",
+        "coefficient": 0.7
+      },
+      {
+        "productId": "prd_069",
+        "productName": "Pis Su Boru 100mm",
+        "unit": "meter",
+        "quantityFormula": "per_meter",
+        "coefficient": 0.3
+      },
+      {
+        "productId": "prd_030",
+        "productName": "Sifon Seti",
+        "unit": "piece",
+        "quantityFormula": "per_input",
+        "inputKey": "fixtureCount",
+        "coefficient": 1
+      },
+      {
+        "productId": "prd_043",
+        "productName": "Silikon Beyaz",
+        "unit": "piece",
+        "quantityFormula": "per_input",
+        "inputKey": "fixtureCount",
+        "coefficient": 0.25
+      }
+    ]
+  },
+  {
+    "id": "rcp_landscape_lawn",
+    "name": "Peyzaj Cim Serimi",
+    "description": "Cim ekimi icin tohum, torf ve sulama kalemi hesaplar.",
+    "inputMode": "m2",
+    "primaryInputLabel": "Cim Alani",
+    "showThickness": true,
+    "defaultWastePercent": 8,
+    "customInputs": [
+      {
+        "key": "irrigationSetCount",
+        "label": "Damla Sulama Seti",
+        "unit": "Adet",
+        "defaultValue": 1,
+        "required": true
+      }
+    ],
+    "items": [
+      {
+        "productId": "prd_079",
+        "productName": "Cim Tohumu 1kg",
+        "unit": "kg",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.04
+      },
+      {
+        "productId": "prd_080",
+        "productName": "Toprak Torf 50L",
+        "unit": "piece",
+        "quantityFormula": "per_m3",
+        "coefficient": 2.3
+      },
+      {
+        "productId": "prd_078",
+        "productName": "Damla Sulama Seti",
+        "unit": "piece",
+        "quantityFormula": "per_input",
+        "inputKey": "irrigationSetCount",
+        "coefficient": 1
+      }
+    ]
+  },
+  {
+    "id": "rcp_landscape_fence",
+    "name": "Peyzaj Cit ve Tel",
+    "description": "Bahce cevreleme icin cit teli, direk ve bag teli hesabi.",
+    "inputMode": "meter",
+    "primaryInputLabel": "Cevre Uzunlugu",
+    "showThickness": false,
+    "defaultWastePercent": 7,
+    "customInputs": [
+      {
+        "key": "lineRows",
+        "label": "Tel Kat Sayisi",
+        "unit": "Adet",
+        "defaultValue": 1,
+        "required": true
+      }
+    ],
+    "items": [
+      {
+        "productId": "prd_101",
+        "productName": "Bahce Cit Teli 1x25m",
+        "unit": "meter",
+        "quantityFormula": "per_meter",
+        "coefficient": 1
+      },
+      {
+        "productId": "prd_102",
+        "productName": "Cit Diregi Galvaniz 2m",
+        "unit": "piece",
+        "quantityFormula": "per_meter",
+        "coefficient": 0.4
+      },
+      {
+        "productId": "prd_103",
+        "productName": "Bag Teli 1.2mm",
+        "unit": "meter",
+        "quantityFormula": "per_input",
+        "inputKey": "lineRows",
+        "coefficient": 10
+      }
+    ]
+  },
+  {
+    "id": "rcp_concrete_base",
+    "name": "Cimento + Demir Temel Paketi",
+    "description": "Temel atma icin cimento ve profil bazli yaklasik hesap.",
+    "inputMode": "m2",
+    "primaryInputLabel": "Temel Alani",
+    "showThickness": true,
+    "defaultWastePercent": 15,
+    "items": [
+      {
+        "productId": "prd_051",
+        "productName": "Cimento 50kg",
+        "unit": "piece",
+        "quantityFormula": "per_m3",
+        "coefficient": 7
+      },
+      {
+        "productId": "prd_061",
+        "productName": "Demir Profil 20x20",
+        "unit": "meter",
+        "quantityFormula": "per_m2",
+        "coefficient": 1.8
+      },
+      {
+        "productId": "prd_062",
+        "productName": "Demir Profil 30x30",
+        "unit": "meter",
+        "quantityFormula": "per_m2",
+        "coefficient": 0.9
+      }
+    ]
+  }
+]
